@@ -209,19 +209,31 @@ cat /proc/meminfo
 ### Create User
 
 ```bash
-sudo adduser newusername
-```
-
-### Create Group
-
-```bash
-sudo addgroup devops
+sudo adduser test
 ```
 
 ### Switch User
 
 ```bash
-su - newusername
+su - test
+```
+
+### Delete User
+
+```bash
+sudo deluser test
+```
+
+### Create Group
+
+```bash
+sudo addgroup test
+```
+
+### Delete Group
+
+```bash
+sudo groupdel test
 ```
 
 </details>
