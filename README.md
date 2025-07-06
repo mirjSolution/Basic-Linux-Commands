@@ -114,9 +114,9 @@ cat ~/.bash_history
 
 ## 📂 Hidden Files
 
-### List All Files Including Hidden
+![hidden](GIF/hidden.png)
 
-![Productivity](GIF/productivity.gif)
+### List All Files Including Hidden
 
 ```bash
 ls -a
