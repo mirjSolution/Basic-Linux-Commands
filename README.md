@@ -96,6 +96,8 @@ cd Documents
 
 ## 📄 Viewing File Contents
 
+![View](GIF/view.gif)
+
 ### View a Text File
 
 ```bash
