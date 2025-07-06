@@ -162,6 +162,8 @@ cp file1.txt file2.txt
 
 ## 💻 System Info Commands
 
+![system](GIF/sysinfo.gif)
+
 ### Kernel and System Info
 
 ```bash
