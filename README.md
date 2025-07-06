@@ -144,6 +144,8 @@ mv test.txt test1.txt
 
 ## 📋 Copy Files and Folders
 
+![copy](GIF/copy.gif)
+
 ### Copy Folder Recursively
 
 ```bash
