@@ -126,16 +126,18 @@ ls -a
 
 ## 🔁 Rename or Move Files and Folders
 
+![rename](GIF/rename.gif)
+
 ### Rename Folder
 
 ```bash
-mv old_folder new_folder
+mv test test1
 ```
 
 ### Rename File
 
 ```bash
-mv old_file.txt new_file.txt
+mv test.txt test1.txt
 ```
 
 ---
