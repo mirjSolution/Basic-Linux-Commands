@@ -124,7 +124,7 @@ ls -a
 
 ---
 
-## 🔁 Rename or Move Files and Folders
+## 🔁 Rename Files and Folders
 
 ![rename](GIF/rename.gif)
 
