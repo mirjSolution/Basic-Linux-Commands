@@ -75,6 +75,8 @@ rm -r test
 
 ### Absolute Path
 
+![Navigation](GIF/Path.gif)
+
 ```bash
 cd /etc/network
 ```
