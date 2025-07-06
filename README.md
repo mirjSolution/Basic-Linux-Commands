@@ -31,7 +31,7 @@ cd Documents
 cd ..
 ```
 
-![Navigation](Images/Navigation.gif)
+![Navigation](GIF/Navigation.gif)
 
 </details>
 
