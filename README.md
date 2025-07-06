@@ -94,6 +94,8 @@ cd Documents
 <details>
 <summary>⚡ Terminal Productivity Tips</summary>
 
+![Productivity](GIF/productivity.gif)
+
 - **Autocomplete:** Press `Tab`
 - **Command History:** `history`
 - **Reverse Search:** `Ctrl + R`
