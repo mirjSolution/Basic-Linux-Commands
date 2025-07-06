@@ -99,7 +99,7 @@ cd Documents
 ### View a Text File
 
 ```bash
-cat filename.txt
+cat test.txt
 ```
 
 ### View Command History File
