@@ -45,25 +45,25 @@ cd ..
 ### Create a Directory
 
 ```bash
-mkdir my_folder
+mkdir test
 ```
 
 ### Create a File
 
 ```bash
-touch myfile.txt
+touch test.txt
 ```
 
 ### Remove a File
 
 ```bash
-rm myfile.txt
+rm test.txt
 ```
 
 ### Remove a Directory
 
 ```bash
-rm -r my_folder
+rm -r test
 ```
 
 </details>
