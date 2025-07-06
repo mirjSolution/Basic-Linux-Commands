@@ -4,7 +4,7 @@ This guide contains essential Linux terminal commands for navigating the file sy
 
 ---
 
-<summary>📁 Navigation</summary>
+## 📁 Navigation
 
 ![Navigation](GIF/nav.gif)
 
@@ -34,7 +34,7 @@ cd ..
 
 ---
 
-<summary>🛠 File & Folder Operations</summary>
+## 🛠 File & Folder Operations
 
 ![Navigation](GIF/FFOperations.gif)
 
@@ -64,7 +64,7 @@ rm -r test
 
 ---
 
-<summary>🧭 Paths: Absolute vs Relative</summary>
+## 🧭 Paths: Absolute vs Relative
 
 ![Navigation](GIF/Path.gif)
 
@@ -82,7 +82,7 @@ cd Documents
 
 ---
 
-<summary>⚡ Terminal Productivity Tips</summary>
+## ⚡ Terminal Productivity Tips
 
 ![Productivity](GIF/productivity.gif)
 
@@ -94,7 +94,7 @@ cd Documents
 
 ---
 
-<summary>📄 Viewing File Contents</summary>
+## 📄 Viewing File Contents
 
 ### View a Text File
 
@@ -110,7 +110,7 @@ cat ~/.bash_history
 
 ---
 
-<summary>📂 Hidden Files</summary>
+## 📂 Hidden Files
 
 ### List All Files Including Hidden
 
@@ -120,7 +120,7 @@ ls -a
 
 ---
 
-<summary>🔁 Rename or Move Files and Folders</summary>
+## 🔁 Rename or Move Files and Folders
 
 ### Rename Folder
 
@@ -136,7 +136,7 @@ mv old_file.txt new_file.txt
 
 ---
 
-<summary>📋 Copy Files and Folders</summary>
+## 📋 Copy Files and Folders
 
 ### Copy Folder Recursively
 
@@ -152,7 +152,7 @@ cp file1.txt file2.txt
 
 ---
 
-<summary>💻 System Info Commands</summary>
+## 💻 System Info Commands
 
 ### Kernel and System Info
 
@@ -180,7 +180,7 @@ cat /proc/meminfo
 
 ---
 
-<summary>🔐 Superuser and Sudo</summary>
+## 🔐 Superuser and Sudo
 
 ### Create User
 
