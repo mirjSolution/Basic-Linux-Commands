@@ -6,6 +6,7 @@ This guide contains essential Linux terminal commands for navigating the file sy
 
 <details>
 <summary>📁 Navigation</summary>
+
 ![Navigation](GIF/Navigation.gif)
 
 ### Show Current Directory
