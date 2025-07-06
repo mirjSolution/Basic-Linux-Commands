@@ -4,7 +4,6 @@ This guide contains essential Linux terminal commands for navigating the file sy
 
 ---
 
-<details>
 <summary>📁 Navigation</summary>
 
 ![Navigation](GIF/nav.gif)
@@ -33,11 +32,8 @@ cd Documents
 cd ..
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>🛠 File & Folder Operations</summary>
 
 ![Navigation](GIF/FFOperations.gif)
@@ -66,11 +62,8 @@ rm test.txt
 rm -r test
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>🧭 Paths: Absolute vs Relative</summary>
 
 ![Navigation](GIF/Path.gif)
@@ -87,11 +80,8 @@ cd /etc/network
 cd Documents
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>⚡ Terminal Productivity Tips</summary>
 
 ![Productivity](GIF/productivity.gif)
@@ -102,11 +92,8 @@ cd Documents
 - **Cancel Command:** `Ctrl + C`
 - **Paste in Terminal:** `Ctrl + Shift + V`
 
-</details>
-
 ---
 
-<details>
 <summary>📄 Viewing File Contents</summary>
 
 ### View a Text File
@@ -121,11 +108,8 @@ cat filename.txt
 cat ~/.bash_history
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>📂 Hidden Files</summary>
 
 ### List All Files Including Hidden
@@ -134,11 +118,8 @@ cat ~/.bash_history
 ls -a
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>🔁 Rename or Move Files and Folders</summary>
 
 ### Rename Folder
@@ -153,11 +134,8 @@ mv old_folder new_folder
 mv old_file.txt new_file.txt
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>📋 Copy Files and Folders</summary>
 
 ### Copy Folder Recursively
@@ -172,11 +150,8 @@ cp -r source_folder destination_folder
 cp file1.txt file2.txt
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>💻 System Info Commands</summary>
 
 ### Kernel and System Info
@@ -203,11 +178,8 @@ cat /proc/cpuinfo
 cat /proc/meminfo
 ```
 
-</details>
-
 ---
 
-<details>
 <summary>🔐 Superuser and Sudo</summary>
 
 ### Create User
@@ -239,8 +211,6 @@ sudo addgroup test
 ```bash
 sudo groupdel test
 ```
-
-</details>
 
 ---
 
