@@ -192,6 +192,8 @@ cat /proc/meminfo
 
 ## 🔐 Superuser and Sudo
 
+![system](GIF/superuser.gif)
+
 ### Create User
 
 ```bash
@@ -201,7 +203,7 @@ sudo adduser test
 ### Switch User
 
 ```bash
-su - test
+su -test
 ```
 
 ### Delete User
