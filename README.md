@@ -73,9 +73,9 @@ rm -r test
 <details>
 <summary>🧭 Paths: Absolute vs Relative</summary>
 
-### Absolute Path
-
 ![Navigation](GIF/Path.gif)
+
+### Absolute Path
 
 ```bash
 cd /etc/network
