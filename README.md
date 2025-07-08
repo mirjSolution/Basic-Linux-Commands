@@ -232,4 +232,5 @@ These commands are foundational to working with Linux systems via the terminal. 
 
 ---
 
-🧑‍💻 _Created by Rico John Dato-on_
+🧑‍💻 *Created by Rico John Dato-on*🧑‍💻 _Created by Rico John Dato-on_  
+🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)
